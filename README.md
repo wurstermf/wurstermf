@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wurstermf
-- 👀 I’m interested in data analytics, DeFi, FinTech, and using data storytelling.
-- 🌱 I recently completed the data analytics fellowship at Springboard.
+- 👀 I’m interested in data analytics, data manipulation, and using data storytelling.
+- 🌱 I have a year of experience utilizing python and other data tools to optimize performance in the ad space.
 - 📫 How to reach me wurstermf@gmail.com
 
 <!---
